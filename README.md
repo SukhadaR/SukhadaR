@@ -2,7 +2,8 @@
 
 ### 🎨 Creative Strategist | 🤖 GenAI & No-Code Builder 
 
-> **Bridging the gap between raw AI power and elegant UI.** > I specialize in training custom LoRAs and architecting ComfyUI workflows that power high-end creative strategies. I focus on building clutter-free, user-centric tools that turn complex GenAI logic into seamless digital experiences.
+**Bridging the gap between raw AI power and elegant UI.** I specialize in training custom LoRAs and architecting ComfyUI workflows that power high-end creative strategies. I focus on building clutter-free, user-centric tools that turn complex GenAI logic into seamless digital experiences.
+
 
 ---
 
@@ -13,3 +14,4 @@
 ![Design](https://img.shields.io/badge/UX-Clutter--Free-00C7B7?style=flat-square&logo=figma&logoColor=white)
 
 ---
+**Featured Project: Sugandh Co. — Luxury Fragrance Concept**
