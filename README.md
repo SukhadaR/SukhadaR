@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Sukhada Rasalkar 👋
 
-<!--
-**SukhadaR/SukhadaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Creative Strategist | 🤖 GenAI & No-Code Builder 
 
-Here are some ideas to get you started:
+> **Bridging the gap between raw AI power and elegant UI.** > I specialize in training custom LoRAs and architecting ComfyUI workflows that power high-end creative strategies. I focus on building clutter-free, user-centric tools that turn complex GenAI logic into seamless digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My AI Stack
+![ComfyUI](https://img.shields.io/badge/GenAI-ComfyUI-blueviolet?style=flat-square&logo=gitbook&logoColor=white)
+![PyTorch](https://img.shields.io/badge/Training-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NoCode](https://img.shields.io/badge/Build-No--Code-blue?style=flat-square&logo=lightning&logoColor=white)
+![Design](https://img.shields.io/badge/UX-Clutter--Free-00C7B7?style=flat-square&logo=figma&logoColor=white)
+
+---
